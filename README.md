@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Shoaib! 👋
 
-<!--
-**ShoaibAdnan/ShoaibAdnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional software developer and project manager with experience leading real-world applications and technical teams.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🧑‍💻 I manage and contribute to large-scale projects, including **BenchBoss**, a performance tracking and game management app for sports teams.
+- 🛠️ My daily work involves **Azure deployments**, **backend development** (.NET, Node.js), **frontend development** (Angular), and **SQL database design**.
+- 🎯 I focus on shipping polished, production-grade software rather than small side projects.
+- 📈 Currently balancing software leadership with hands-on development and project management.
+
+---
+
+## 🧰 Tech Stack & Tools
+- **Backend:** .NET, Node.js, REST APIs
+- **Frontend:** Angular, TypeScript, SCSS
+- **Databases:** SQL Server, Azure SQL
+- **Cloud:** Microsoft Azure (App Service, SQL, Deployment Pipelines)
+- **Project Management:** Azure DevOps, GitHub, Trello, Slack
+
+---
+
+## 📊 GitHub Stats
+
+![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoaibAdnan&show_icons=true&theme=dark)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShoaibAdnan&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 🔗 Connect With Me
+- TBD
+
+
