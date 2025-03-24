@@ -29,6 +29,6 @@ I'm a professional software developer and project manager with experience leadin
 ---
 
 ## 🔗 Connect With Me
-- TBD
+- https://www.linkedin.com/in/shoaib-a-682067173/
 
 
