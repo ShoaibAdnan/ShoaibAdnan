@@ -23,7 +23,6 @@ I'm a professional software developer and project manager with experience leadin
 
 ## 📊 GitHub Stats
 
-![Shoaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShoaibAdnan&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShoaibAdnan&theme=dark)](https://git.io/streak-stats)
 
