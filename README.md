@@ -12,7 +12,7 @@ I'm a full-stack developer and project manager who loves building real-world app
 
 🗄️ I regularly design, update, and optimize databases to support our growing systems.
 
-☁️ I handle deployments on Azure, including creating and managing environments and web app infrastructure.
+☁️ I handle deployments on Azure, including creating and managing environments (such as cost management and monitoring performance) and web app infrastructure.
 
 💻 I've worked on projects like DRL Tracking & Shipping website (frontend with Angular, backend with MSSQL), and custom Lottery Management Systems for multiple clients.
 
