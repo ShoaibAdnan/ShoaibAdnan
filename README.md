@@ -1,25 +1,34 @@
-# Hi there, I'm Shoaib! 👋
+Hi there, I'm Shoaib! 👋
 
-I'm a professional software developer and project manager with experience leading real-world applications and technical teams.
+I'm a full-stack developer and project manager who loves building real-world applications and leading teams to deliver great products.
 
----
+🚀 About Me
 
-## 🚀 About Me
-- 🧑‍💻 I manage and contribute to large-scale projects, including **BenchBoss**, a performance tracking and game management app for sports teams.
-- 🛠️ My daily work involves **Azure deployments**, **backend development** (.NET, Node.js), **frontend development** (Angular), and **SQL database design**.
-- 🎯 I focus on shipping polished, production-grade software rather than small side projects.
-- 📈 Currently balancing software leadership with hands-on development and project management.
+🧑‍💻 I work on large projects like BenchBoss, a player performance tracking and game management app; Fundraiz, a lottery management platform; North Star Payroll, a payroll management system; and internal tools like the Mainstay Application (a custom job management app developed in .NET) and the NewValve Application (a valve management system built in .NET).
 
----
+🏗️ I help design and manage custom workflow tools that reduce repetitive tasks and improve business efficiency.
 
-## 🧰 Tech Stack & Tools
-- **Backend:** .NET, Node.js, REST APIs
-- **Frontend:** Angular, TypeScript, SCSS
-- **Databases:** SQL Server, Azure SQL
-- **Cloud:** Microsoft Azure (App Service, SQL, Deployment Pipelines)
-- **Project Management:** Azure DevOps, GitHub, Trello, Slack
+🛠️ I enjoy working across the full stack, building front-end interfaces with Angular/TypeScript and developing back-end APIs with Node.js and .NET.
 
----
+🗄️ I regularly design, update, and optimize databases to support our growing systems.
+
+☁️ I handle deployments on Azure, including creating and managing environments and web app infrastructure.
+
+💻 I've worked on projects like DRL Tracking & Shipping website (frontend with Angular, backend with MSSQL), and custom Lottery Management Systems for multiple clients.
+
+🔄 I have experience migrating applications and websites to new hosting providers with minimal downtime.
+
+📊 I've contributed to improving appointment booking systems for businesses like JackAxes, enhancing UI/UX and system performance.
+
+🧩 I oversee project delivery, manage development teams, and ensure smooth integrations between systems and business processes.
+
+🎓 Qualifications
+
+🎓 Diploma in Programmer Analyst (Business) CO-OP — College of The North Atlantic (2022)
+
+📜 Google Project Management Professional Certificate (2024) — View Certificate
+
+📜 AWS Academy Cloud Developing Graduate (2022) — View Certificate
 
 ## 📊 GitHub Stats
 
