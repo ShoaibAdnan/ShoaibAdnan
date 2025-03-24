@@ -2,7 +2,7 @@
 
 I'm a full-stack developer and project manager who loves building real-world applications and leading teams to deliver great products.
 
-🚀 About Me
+# 🚀 About Me
 
 🧑‍💻 I work on large projects like [BenchBoss](https://benchboss-fe.azurewebsites.net), a player performance tracking and game management app; [Fundraiz](https://fundraiz.ca), a lottery management platform; [North Star Payroll](https://northstarpayroll.ca), a payroll management system; and internal tools like the Mainstay Application (a custom job management app developed in .NET) and the NewValve Application (a valve management system built in .NET).
 
@@ -22,7 +22,7 @@ I'm a full-stack developer and project manager who loves building real-world app
 
 🧩 I oversee project delivery, manage development teams, and ensure smooth integrations between systems and business processes.
 
-🎓 Qualifications
+# 🎓 Qualifications
 
 🎓 Diploma in Programmer Analyst (Business) CO-OP — College of The North Atlantic (2022)
 
