@@ -34,7 +34,6 @@ I'm a full-stack developer and project manager who loves building real-world app
 ## 📊 GitHub Stats
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShoaibAdnan&theme=dark)](https://git.io/streak-stats)
 
 ---
 
