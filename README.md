@@ -31,11 +31,6 @@ I'm a full-stack developer and project manager who loves building real-world app
 📜 **AWS Academy Cloud Developing Graduate** (2022) — [View Certificate](https://www.credly.com/earner/earned/badge/c2195211-5d46-4f77-8a55-958d5b14d499)
 
 
-## 📊 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=ShoaibAdnan&theme=dark)](https://git.io/streak-stats)
-
-
-
 ---
 
 ## 🔗 Connect With Me
