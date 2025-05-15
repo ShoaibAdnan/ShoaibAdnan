@@ -1,6 +1,6 @@
 # Hi there, I'm Shoaib! 👋
 
-I'm a full-stack developer and project manager who loves building real-world applications and leading teams to deliver great products.
+I'm a full-stack developer who loves building real-world applications and leading teams to deliver great products.
 
 # 🚀 About Me
 
