@@ -24,7 +24,7 @@ I'm a full-stack developer who loves building real-world applications and leadin
 
 # 🎓 Qualifications
 
-🎓 Diploma in Programmer Analyst (Business) CO-OP — College of The North Atlantic (2022)
+🎓 **Diploma in Programmer Analyst (Business) CO-OP — College of The North Atlantic (2022)**
   
 📜 **AWS Academy Cloud Developing Graduate** (2022) — [View Certificate](https://www.credly.com/earner/earned/badge/c2195211-5d46-4f77-8a55-958d5b14d499)
 
